@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@preact/legacy-compat": "0.2.0",
+    "parcel": "2.12.0",
+    "preact": "10.13.1"
+  },
+  "devDependencies": {
+        "@types/react": "17.0.39"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "preact/compat": [
+                "node_modules/@types/react",
+                "preact/compat"
+            ]
+        }
+    }
+}
